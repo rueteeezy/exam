@@ -1,0 +1,12 @@
+Rates
+
+2% off for buying rate
+2% additional for selling rate
+
+How to use Project
+
+URL : http://localhost:8080/convert?fromCurrency=USD&toCurrency=PHP&inputAmount=1
+
+fromCurrency : base currency
+toCurrency : target currency
+inputAmount : amount to be converted
